@@ -8,7 +8,7 @@ Noorix is an AI-powered chatbot web application that allows users to interact vi
 
 ## Live Demo
 
-[Click here to try Noorix Chatbot online](  )  
+[Click here to try Noorix Chatbot online]( https://ankit-tiwari-0.github.io/Noorix-Chatbot/ )  
 
 ## Features
 
